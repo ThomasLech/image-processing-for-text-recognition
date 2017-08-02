@@ -1,5 +1,0 @@
-
-
-def recognize(patterns):
-
-	pass
